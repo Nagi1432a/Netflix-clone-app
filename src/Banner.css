@@ -1,0 +1,36 @@
+.banner{
+    color:white;
+    object-fit:contain;
+    height:448px;
+}
+
+.bann_cont{
+    margin-left: 30px;
+    padding-top: 140px;
+    height:190px;
+
+}
+
+
+.bann_tit{
+    font-size: 3rem;
+    font-weight: bold;
+
+ 
+
+}
+
+.bann_desc{
+    width:45rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    font-size: 0.8rem;
+    max-width:360px;
+}
+.bann_but{
+    border-radius: 0.2vw;
+    font-weight: 700;
+    outline:none;
+    background-color: rgba(60, 50, 50, 0.286);
+    color:white;
+}
